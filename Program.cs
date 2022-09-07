@@ -13,38 +13,40 @@
 // Thread 3 - Resultado 120
 
 void threadUm(){
-    Console.WriteLine($"ThreadProc: {Thread.CurrentThread.ManagedThreadId} Ativo");
-    Console.Write("Quantidade de repetições de fatoriais: ");
+    Console.WriteLine($"-----===== Thread: {Thread.CurrentThread.ManagedThreadId} Ativo =====-----");
+    Console.Write("QUANTIDADE DE CALCULOS: ");
     int n1 = int.Parse(Console.ReadLine());
-    Console.WriteLine($"ThreadProc: {Thread.CurrentThread.ManagedThreadId} está iniciando a segunda thread");
+    Console.WriteLine($"-----===== Thread: {Thread.CurrentThread.ManagedThreadId} está iniciando outra thread =====-----");
+
     Thread t = new Thread(threadDois);
     t.Start();
     t.Join();
 
     fat(n1, 100);
-
 }
 
 void threadDois(){
-    Console.WriteLine($"ThreadProc: {Thread.CurrentThread.ManagedThreadId} Ativo");
-    Console.Write("Quantidade de repetições de fatoriais: ");
+    Console.WriteLine($"-----===== Thread: {Thread.CurrentThread.ManagedThreadId} Ativo =====-----");
+    Console.Write("QUANTIDADE DE CALCULOS: ");
     int n2 = int.Parse(Console.ReadLine());
     fat(n2, 100);
 }
 
-int fatorial(int x){
-    if(x == 0){
-        return 1;
-    } else {
-        return x * fatorial(x-1);
+void fatorial(int x){
+    int result = 1;
+    Console.WriteLine($"-----===== Executando operação na Thread: {Thread.CurrentThread.ManagedThreadId} =====-----");
+    for(int i = x; i > 1; i--){
+        result *= i;
+        Console.WriteLine($"Thread: {Thread.CurrentThread.ManagedThreadId} - iteração - {i} - Resultado: {result}");
     }
+    Console.WriteLine($"Thread: {Thread.CurrentThread.ManagedThreadId} - FATORIAL DE {x} = {result}");
 }
 
 void fat(int n, int ms){
-    for(int i = 0; i <= n; i++){
-        Console.Write("Informe um número para o calculo: ");
+    for(int i = 0; i < n; i++){
+        Console.Write("INFORME O NÚMERO PARA CALCULO DO FATORIAL: ");
         int x = int.Parse(Console.ReadLine());
-        Console.WriteLine($"ThreadProc: {Thread.CurrentThread.ManagedThreadId} - Fatorial de {i} = {fatorial(x)}");
+        fatorial(x);
         Thread.Sleep(ms);
     }
 }
