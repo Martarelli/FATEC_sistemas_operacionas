@@ -1,0 +1,15 @@
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\bin\Debug\net6.0\FATEC_sistemas_operacionas.exe
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\bin\Debug\net6.0\FATEC_sistemas_operacionas.deps.json
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\bin\Debug\net6.0\FATEC_sistemas_operacionas.runtimeconfig.json
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\bin\Debug\net6.0\FATEC_sistemas_operacionas.dll
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\bin\Debug\net6.0\FATEC_sistemas_operacionas.pdb
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.csproj.AssemblyReference.cache
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.AssemblyInfoInputs.cache
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.AssemblyInfo.cs
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.csproj.CoreCompileInputs.cache
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.dll
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\refint\FATEC_sistemas_operacionas.dll
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.pdb
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\FATEC_sistemas_operacionas.genruntimeconfig.cache
+C:\Users\rmart\OneDrive - Fatec Centro Paula Souza\Analise e Desenvolvimento de Sistemas\Matérias\Sistemas Operacionais I\FATEC_sistemas_operacionas\obj\Debug\net6.0\ref\FATEC_sistemas_operacionas.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FATEC_sistemas_operacionas/1.0.0": {
+        "runtime": {
+          "FATEC_sistemas_operacionas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FATEC_sistemas_operacionas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
